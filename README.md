@@ -6,7 +6,7 @@
     ██║        ██║      ██║     ╚██╔╝  ██║╚██╔╝██║██╔══╝  ██║╚██╗██║██║   ██║
     ╚██████╗   ██║      ██║      ██║   ██║ ╚═╝ ██║███████╗██║ ╚████║╚██████╔╝
      ╚═════╝   ╚═╝      ╚═╝      ╚═╝   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
-    A tiny fulltext menu you can use and modify withour worrying about a
+    A tiny fulltext menu you can use and modify without worrying about a
     star-coder's bullshit around. Just use it. Coded with love by Tixlegeek
 
     Tixlegeek < @tixlegeek - http://www.tixlegeek.io >
